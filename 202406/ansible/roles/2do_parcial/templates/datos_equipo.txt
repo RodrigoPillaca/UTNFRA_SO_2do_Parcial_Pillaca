@@ -1,0 +1,4 @@
+ip: 170.247.56.4
+distribucion: ubuntu
+cantidad de cores: 2
+
